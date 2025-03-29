@@ -1,0 +1,56 @@
+body{
+    
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
+.container{
+    text-align: center;
+    
+}
+
+.card{
+    border: 1px solid gray;
+    margin: 20px 0px;
+    border-radius: 2%;
+    width: 300px;
+    margin: 20px auto;
+    
+
+   
+}
+
+.card li{
+    list-style-type: none;
+    
+    
+}
+
+.card img{
+    margin-top: 50px;
+    border-radius: 3px;
+    width: 300px;
+}
+
+#boton-inicio{
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: antiquewhite;
+}
+
+
+a{
+    
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
